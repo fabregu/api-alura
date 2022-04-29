@@ -1,0 +1,30 @@
+[
+    {
+        "nombre": "Jéssica",
+        "direccion": "Av Grau",
+        "numero": 987345123,
+        "monto": 500,
+        "interes": 5
+    },
+    {
+        "nombre": "Adela",
+        "direccion": "Av Lima",
+        "numero": 9873458723,
+        "monto": 1500,
+        "interes": 15
+    },
+    {
+        "nombre": "Omar",
+        "direccion": "Av Primavera",
+        "numero": 98734500,
+        "monto": 200,
+        "interes": 20
+    },
+    {
+        "nombre": "Alvaro",
+        "direccion": "Jr. Puno",
+        "numero": 94845123,
+        "monto": 1000,
+        "interes": 10
+    }
+]
